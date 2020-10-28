@@ -1,0 +1,66 @@
+[
+    {
+        "nama": "olshop baby",
+        "owner": "joko",
+        "produk": [
+            {
+                "nama" : "diapres",
+                "stok" : 5,
+                "harga" : 5000
+            },
+            {
+                "nama" : "susu",
+                "stok" : 10,
+                "harga" : 3000
+            },
+            {
+                "nama" : "baju bayi",
+                "stok" : 30,
+                "harga" : 25000
+            }
+        ]
+    },
+    {
+        "nama": "olshop elektronik",
+        "owner": "anwar",
+        "produk": [
+            {
+                "nama" : "speaker",
+                "stok" : 5,
+                "harga" : 5000
+            },
+            {
+                "nama" : "headset",
+                "stok" : 10,
+                "harga" : 3000
+            },
+            {
+                "nama" : "mouse",
+                "stok" : 30,
+                "harga" : 25000
+            }
+        ]
+    },
+    {
+        "nama": "olshop alat musik",
+        "owner": "anwar",
+        "produk": [
+            {
+                "nama" : "gitar",
+                "stok" : 5,
+                "harga" : 5000
+            },
+            {
+                "nama" : "ukulele",
+                "stok" : 10,
+                "harga" : 3000
+            },
+            {
+                "nama" : "piano",
+                "stok" : 30,
+                "harga" : 25000
+            }
+        ]
+    }
+    
+]
